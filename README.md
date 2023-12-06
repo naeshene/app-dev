@@ -1,1 +1,4 @@
-# app-dev
+# Manchester of the Sea
+**Manchester by the Sea is a 2016 American drama film written and directed by Kenneth Lonergan that stars Casey Affleck, Michelle Williams, Kyle Chandler, and Lucas Hedges. Revolving around the themes of depression, guilt, grief, responsibility, dysfunctional families, and post-traumatic stress disorder, the plot follows a depressed and grief-stricken man who becomes the legal guardian of his teenage nephew after the death of his brother.**
+[https://www.bing.com/images/search?view=detailV2&ccid=itDmvHCY&id=77ED75770ED11C32BCFCCCEF8947B80E27A82B0A&thid=OIP.itDmvHCYpY4OCqNaxDgmMgHaLH&mediaurl=https%3a%2f%2fwww.themoviedb.org%2ft%2fp%2foriginal%2f7sLSxko8AZofmRFm0j7Uf9RbHBd.jpg&exph=3000&expw=2000&q=manchester+by+the+sea+movie+pic&simid=608010255529695085&FORM=IRPRST&ck=BF61515C10122010D0876090F8C74112&selectedIndex=0&itb=0&ajaxhist=0&ajaxserp=0]
+![alt text](sksk.jpg)
